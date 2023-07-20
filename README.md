@@ -1,0 +1,1 @@
+The plan is to create a side project around gameplay mechanics in code form for a physical card game I designed.
