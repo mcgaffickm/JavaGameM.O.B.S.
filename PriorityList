@@ -3,6 +3,7 @@ Requirements/Priorirty List
 1 - Design basic defense and attack mechanics
 2 - Create simple game against 1 cpu
 3 - Add modification chips gameplay
+3.5 - Add all original modification chips
 4 - Implement battles against 2 cpu and 3 cpu
 5 - Implement multiplayer, 2, 3, 4 players
 6 - Add additional game modes
