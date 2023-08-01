@@ -18,6 +18,6 @@ public class PagesControl {
     @GetMapping("/battle")
     public String battle()
     {
-        return "battle";
+        return "battle from spring";
     }
 }
