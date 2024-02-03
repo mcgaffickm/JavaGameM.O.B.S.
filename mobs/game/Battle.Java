@@ -7,7 +7,7 @@ public Class Battle{
     boolean battleOver;
     int totalRounds;
     int totalPlayers;
-
+//test
     //Sets the default values and gets the players
     public Battle(ArrayList<Player> players)
     {
