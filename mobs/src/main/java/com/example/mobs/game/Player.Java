@@ -3,6 +3,7 @@ public class Player{
     //Declares basic stats of the player
         boolean bot;
         Mech mech;
+        PlayerInput input;
 
     //Constructor determining if player controlled or bot controlled.
     public Player(boolean bot)
