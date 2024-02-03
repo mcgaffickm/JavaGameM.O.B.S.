@@ -1,0 +1,3 @@
+To Run Angular App, go to angular app folder in frontend.
+then use ng -serve
+local host port: 4200
