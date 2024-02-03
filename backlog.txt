@@ -1,0 +1,9 @@
+- Create two player game
+- create two human player game
+- create three, four player game
+- add in modifications
+- add in varients
+- implement spring boot
+- implement angular
+- connect spring boot to angular
+- add additional modes and campaign
